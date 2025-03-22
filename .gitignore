@@ -1,0 +1,51 @@
+# Rider project files
+.idea/
+*.sln.iml
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# VS Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+
+# Rider caches and temp
+.idea/
+*.iws
+*.iml
+out/
+
+# dotCover / dotTrace
+.idea/.dotCover
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# User secrets (если используешь ASP.NET Core)
+secrets.json
+
+# .NET Core artifacts
+artifacts/
+project.assets.json
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
